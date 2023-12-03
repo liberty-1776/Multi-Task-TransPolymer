@@ -1,0 +1,272 @@
+﻿Polymer,SMILES descriptor 1,SMILES descriptor 2,Comonomer percentage,Anion,Amion SMILES,log Li:functional group,approxMW(kDa),approxTg,chain_architecture,logCond60,Temperature (℃)
+polyethylene carbonate,COC(=O)OC,CCO,95.2,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.125997263,37,-3,linear,-5.72,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.70002853,37,-20,linear,-5.19,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.347846012,37,-33,linear,-4.81,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0.07812272,37,-62,linear,-4.25,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,N(SO2C2F5)2,C(C(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(C(F)(F)F)(F)F)(F)(F)F,-1.255938537,37,-14,linear,-5.56,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,N(SO2C2F5)2,C(C(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(C(F)(F)F)(F)F)(F)(F)F,-0.829969805,37,-20,linear,-5.33,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,N(SO2C2F5)2,C(C(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(C(F)(F)F)(F)F)(F)(F)F,-0.477787287,37,-33,linear,-5.23,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,N(SO2C2F5)2,C(C(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(C(F)(F)F)(F)F)(F)(F)F,-0.051818555,37,-39,linear,-4.88,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,BF4,F[B-](F)(F)F,-0.758139627,37,-23,linear,-6.51,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,BF4,F[B-](F)(F)F,-0.448154789,37,-29,linear,-5.24,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,BF4,F[B-](F)(F)F,-0.269119149,37,-47,linear,-5.08,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,BF4,F[B-](F)(F)F,-0.135672145,37,-69,linear,-4.34,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,ClO4,[O-]Cl(=O)(=O)=O,-0.695056994,37,-8,linear,-5.3,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,ClO4,[O-]Cl(=O)(=O)=O,-0.269088262,37,-28,linear,-5.1,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,ClO4,[O-]Cl(=O)(=O)=O,0.083094256,37,-1,linear,-5.64,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,ClO4,[O-]Cl(=O)(=O)=O,0.509062989,37,2,linear,-6.57,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.861239964,37,-7,linear,-5.8,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.435271232,37,-16,linear,-5.2,60
+polyethylene carbonate,COC(=O)OC,CCO,95.2,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.083088714,37,-7,linear,-6.7,60
+"poly(butyl ether 1,2-glycerol carbonate)",COC(=O)OC(COCCCC),COC(=O)OC(COCCCC),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1,20.9,-24,linear,-4.038483989,60
+polyethylene carbonate,COC(=O)OC,COC(=O)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.698970004,50,34,linear,-3.73196055,60
+polyethylene carbonate,COC(=O)OC,COC(=O)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.397940009,50,31,linear,-3.73196055,60
+polyethylene carbonate,COC(=O)OC,COC(=O)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.22184875,50,29,linear,-3.115244274,60
+polyethylene carbonate,COC(=O)OC,COC(=O)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.096910013,50,25,linear,-2.757906016,60
+poly(acrylonitrile-co-butylacrylate),CC(C#N),CC(C(=O)OCCCC),67,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0.079181246,65,-22,linear,-4.6409,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1,17.3,-20,linear,-5.946921557,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.602059991,17.3,-20,linear,-5.37675071,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.301029996,17.3,-20,linear,-4.246416941,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0,17.3,-20,linear,-4.033389013,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0.301029996,17.3,-20,linear,-3.675717545,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0.602059991,17.3,-15,linear,-3.68613278,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1,17.3,-15,linear,-6.136082623,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.522878745,17.3,-15,linear,-6.136082623,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.301029996,17.3,-20,linear,-6.449771647,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.15490196,17.3,-15,linear,-6.504455662,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],0,17.3,-25,linear,-6.982966661,60
+poly carbosilane carbonate,C[Si](C)(CCC1COC(=O)O1)CC,C[Si](C)(CCC1COC(=O)O1)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],0.301029996,17.3,-15,linear,-7.159266765,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.602059991,90.6,-10,linear,-6.54668166,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.301029996,90.6,0,linear,-5.501689446,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0,90.6,-5,linear,-4.567030709,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0.301029996,90.6,-20,linear,-3.617982957,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0.602059991,90.6,-25,linear,-3.269217724,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1,90.6,-10,linear,-6.302770657,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.522878745,90.6,0,linear,-5.100179498,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.397940009,90.6,-5,linear,-4.954677021,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.15490196,90.6,-5,linear,-4.924453039,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],0,90.6,-5,linear,-5.804100348,60
+poly carbosilane dicarbonate,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,C[Si](CCC1COC(=O)O1)(CCC2COC(=O)O2)CC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],0.301029996,90.6,-5,linear,-6.013676223,60
+poly(e-caprolactone)-co-(trimethylene carbonate),COC(=O)CCCC,COC(=O)OCC,80,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.004057721,257,-50,linear,-3.982966661,60
+poly(e-caprolactone)-co-(trimethylene carbonate),COC(=O)CCCC,COC(=O)OCC,80,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.812172194,257,-40,linear,-3.55129368,60
+poly(e-caprolactone)-co-(trimethylene carbonate),COC(=O)CCCC,COC(=O)OCC,80,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.651875203,257,-36,linear,-3.488116639,60
+poly(e-caprolactone)-co-(trimethylene carbonate),COC(=O)CCCC,COC(=O)OCC,80,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.50673308,257,-38,linear,-4.022276395,60
+poly(ethylene malonate),COC(=O)CC(=O)OC,COC(=O)CC(=O)OC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.477121255,2.26,-13.25,linear,-4.799718968,60
+poly(ethylene malonate),COC(=O)CC(=O)OC,COC(=O)CC(=O)OC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.204119983,2.26,-8.59,linear,-4.63172428,60
+poly(ethylene malonate),COC(=O)CC(=O)OC,COC(=O)CC(=O)OC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.903089987,2.26,-5.889,linear,-4.788887845,60
+poly(ethylene malonate),COC(=O)CC(=O)OC,COC(=O)CC(=O)OC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.602059991,2.26,-3.531,linear,-4.976589913,60
+poly(ethylene malonate),COC(=O)CC(=O)OC,COC(=O)CC(=O)OC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.301029996,2.26,16.11,linear,-5.572467833,60
+Poly(ethylene adipate),COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,100,ClO4,[O-]Cl(=O)(=O)=O,-2.080748532,10,-41,linear,-5.047609011,60
+Poly(ethylene adipate),COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.594763817,10,-38,linear,-4.117827621,60
+Poly(ethylene adipate),COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.363866938,10,-33,linear,-3.705147886,60
+Poly(ethylene adipate),COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.039355847,10,-28,linear,-3.560201203,60
+Poly(ethylene adipate),COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.838441004,10,-18,linear,-3.599487034,60
+Poly(ethylene adipate),COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.687173328,10,-7,linear,-3.821328683,60
+Poly(ethylene adipate),COC(=O)CCCCC(=O)OC,COC(=O)CCCCC(=O)OC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.453090122,10,-8,linear,-4.451206782,60
+"Poly(1,4-butylene adipate)",COC(=O)CCCCC(=O)OCCC,COC(=O)CCCCC(=O)OCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.529925285,12,-49,linear,-4.0730617,60
+"Poly(1,4-butylene adipate)",COC(=O)CCCCC(=O)OCCC,COC(=O)CCCCC(=O)OCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.299028407,12,-46,linear,-3.668629327,60
+"Poly(1,4-butylene adipate)",COC(=O)CCCCC(=O)OCCC,COC(=O)CCCCC(=O)OCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.974517315,12,-42,linear,-3.42999049,60
+"Poly(1,4-butylene adipate)",COC(=O)CCCCC(=O)OCCC,COC(=O)CCCCC(=O)OCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.622334797,12,-32,linear,-3.69654523,60
+"Poly(1,6-hexamethylene adipate)",COC(=O)CCCCC(=O)OCCCCC,COC(=O)CCCCC(=O)OCCCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.473521275,3.8,-54,linear,-4.193455555,60
+"Poly(1,6-hexamethylene adipate)",COC(=O)CCCCC(=O)OCCCCC,COC(=O)CCCCC(=O)OCCCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.242624397,3.8,-49,linear,-3.762938561,60
+"Poly(1,6-hexamethylene adipate)",COC(=O)CCCCC(=O)OCCCCC,COC(=O)CCCCC(=O)OCCCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.918113305,3.8,-42,linear,-3.462945651,60
+"Poly(1,6-hexamethylene adipate)",COC(=O)CCCCC(=O)OCCCCC,COC(=O)CCCCC(=O)OCCCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.565930787,3.8,-37,linear,-3.502306134,60
+Polycaprolactone,COC(=O)CCCC,COC(=O)CCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.46973432,65,-55,linear,-4.607458953,60
+Polycaprolactone,COC(=O)CCCC,COC(=O)CCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.238837441,65,-50,linear,-3.954548137,60
+Polycaprolactone,COC(=O)CCCC,COC(=O)CCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.91432635,65,-46,linear,-3.570107735,60
+Polycaprolactone,COC(=O)CCCC,COC(=O)CCCC,100,ClO4,[O-]Cl(=O)(=O)=O,-0.562143832,65,-28,linear,-3.926513004,60
+1a,COC(=O)CCCC(=O)OC(C),COC(=O)CCCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2,8.8,-25,linear,-5.588780008,60
+1a,COC(=O)CCCC(=O)OC(C),COC(=O)CCCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,8.8,-21.5,linear,-4.755114516,60
+1a,COC(=O)CCCC(=O)OC(C),COC(=O)CCCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.22184875,8.8,-19,linear,-4.62904256,60
+1a,COC(=O)CCCC(=O)OC(C),COC(=O)CCCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.096910013,8.8,-16,linear,-4.66122281,60
+1a,COC(=O)CCCC(=O)OC(C),COC(=O)CCCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1,8.8,-12,linear,-4.785257582,60
+1a,COC(=O)CCCC(=O)OC(C),COC(=O)CCCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.853871964,8.8,-9.5,linear,-4.813752317,60
+1b,COC(=O)COCC(=O)OC(C),COC(=O)COCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.176091259,6.7,14,linear,-6.539097932,60
+1b,COC(=O)COCC(=O)OC(C),COC(=O)COCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.574031268,6.7,18.5,linear,-6.38075676,60
+1b,COC(=O)COCC(=O)OC(C),COC(=O)COCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,6.7,19,linear,-5.951441712,60
+1b,COC(=O)COCC(=O)OC(C),COC(=O)COCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.273001272,6.7,22,linear,-5.891551102,60
+1b,COC(=O)COCC(=O)OC(C),COC(=O)COCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.176091259,6.7,26,linear,-5.909080719,60
+1b,COC(=O)COCC(=O)OC(C),COC(=O)COCC(=O)OC(C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.029963223,6.7,31,linear,-6.534425323,60
+2a,COC(=O)CCCC(=O)OC(COCC=C),COC(=O)CCCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.176091259,10.4,-40,branched,-5.151567228,60
+2a,COC(=O)CCCC(=O)OC(COCC=C),COC(=O)CCCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.574031268,10.4,-35,branched,-4.810132698,60
+2a,COC(=O)CCCC(=O)OC(COCC=C),COC(=O)CCCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,10.4,-34,branched,-4.67520887,60
+2a,COC(=O)CCCC(=O)OC(COCC=C),COC(=O)CCCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.273001272,10.4,-30,branched,-4.507251708,60
+2a,COC(=O)CCCC(=O)OC(COCC=C),COC(=O)CCCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.176091259,10.4,-26,branched,-4.484513804,60
+2a,COC(=O)CCCC(=O)OC(COCC=C),COC(=O)CCCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.029963223,10.4,-23,branched,-4.610508632,60
+2b,COC(=O)COCC(=O)OC(COCC=C),COC(=O)COCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.301029996,8.9,-13,branched,-5.256906424,60
+2b,COC(=O)COCC(=O)OC(COCC=C),COC(=O)COCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.698970004,8.9,-9,branched,-4.895870094,60
+2b,COC(=O)COCC(=O)OC(COCC=C),COC(=O)COCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.522878745,8.9,-6,branched,-4.821788801,60
+2b,COC(=O)COCC(=O)OC(COCC=C),COC(=O)COCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,8.9,-3.5,branched,-4.688594864,60
+2b,COC(=O)COCC(=O)OC(COCC=C),COC(=O)COCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,8.9,0,branched,-4.599761809,60
+2b,COC(=O)COCC(=O)OC(COCC=C),COC(=O)COCC(=O)OC(COCC=C),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.15490196,8.9,4,branched,-4.948854422,60
+Poly (ethylene succinate),COC(=O)CCC(=O)OC,COC(=O)CCC(=O)OC,100,SCN,[S-]C#N,-1.397940009,23.4,-3,linear,-7.693177742,60
+poly(ethylene sebacate),COC(=O)CCCCCCCCC(=O)OC,COC(=O)CCCCCCCCC(=O)OC,100,SCN,[S-]C#N,-1.397940009,33,-37,linear,-7.384470596,60
+"poly(1,3- diacetyl-4-imidazolin-2-one)",C1C(N(C(=O)C)C(=O)N1(C(=O)C)),C1C(N(C(=O)C)C(=O)N1(C(=O)C)),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,0,47,24,linear,-5.658,60
+"poly(1,3- diacetyl-4-imidazolin-2-one)",C1C(N(C(=O)C)C(=O)N1(C(=O)C)),C1C(N(C(=O)C)C(=O)N1(C(=O)C)),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.176091259,47,35,linear,-5.683,60
+"poly(1,3- diacetyl-4-imidazolin-2-one)",C1C(N(C(=O)C)C(=O)N1(C(=O)C)),C1C(N(C(=O)C)C(=O)N1(C(=O)C)),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.477121255,47,32,linear,-4.59,60
+"poly(1,3- diacetyl-4-imidazolin-2-one)",C1C(N(C(=O)C)C(=O)N1(C(=O)C)),C1C(N(C(=O)C)C(=O)N1(C(=O)C)),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.954242509,47,39,linear,-7.344,60
+polymethacrylonitrile,*CC(*)(C)C#N,*CC(*)(C)C#N,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.301029996,170,80,linear,-5.182529456,60
+polymethacrylonitrile,*CC(*)(C)C#N,*CC(*)(C)C#N,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.477121255,170,80,linear,-6.728347089,60
+polymethacrylonitrile,*CC(*)(C)C#N,*CC(*)(C)C#N,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.77815125,170,80,linear,-6.690203809,60
+polymethacrylonitrile,*CC(*)(C)C#N,*CC(*)(C)C#N,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,170,80,linear,-6.242537778,60
+polymethacrylonitrile,*CC(*)(C)C#N,*CC(*)(C)C#N,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,170,80,linear,-6.735953645,60
+polymethacrylonitrile,*CC(*)(C)C#N,*CC(*)(C)C#N,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,170,80,linear,-6.997216472,60
+poly((N -2-cyanoethyl)ethylenimine,*CN(C*)CCC#N,*CN(C*)CCC#N,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1,190,-36,linear,-4.830599842,60
+polyvinyl alcohol,CC(O),CC(OC(=O)C),98,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.602059991,125000,58,linear,-6.403909826,60
+polyvinyl alcohol,CC(O),CC(OC(=O)C),98,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.602059991,125000,67,linear,-7.23847389,60
+polyvinyl alcohol,CC(O),CC(OC(=O)C),98,ClO4,[O-]Cl(=O)(=O)=O,-0.602059991,125000,41,linear,-7.459811029,60
+polyvinyl alcohol,CC(O),CC(OC(=O)C),98,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.602059991,125000,59,linear,-7.116898221,60
+poly(ethylenimine),CNC,CNC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.176091259,122664,-17.32891832,linear,-5.541342791,60
+poly(ethylenimine),CNC,CNC,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1,122664,-10.24650478,linear,-6.003892002,60
+poly(ethylenimine),CNC,CNC,100,ClO4,[O-]Cl(=O)(=O)=O,-1.176091259,122664,-15.39735099,linear,-5.633429112,60
+poly(ethylenimine),CNC,CNC,100,ClO4,[O-]Cl(=O)(=O)=O,-1,122664,-0.128771155,linear,-6.379373023,60
+poly(N-methylethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.204119983,162707,-42.07137601,linear,-6.017038874,60
+poly(N-methylethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1,162707,-33.79323032,linear,-5.971895376,60
+poly(N-methylethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.770852012,162707,4.194260486,linear,-7.030151148,60
+poly(N-methylethylenimine),CN(C)C,CN(C)C,100,ClO4,[O-]Cl(=O)(=O)=O,-1.176091259,162707,-53.01692421,linear,-6.497145169,60
+poly(N-methylethylenimine),CN(C)C,CN(C)C,100,ClO4,[O-]Cl(=O)(=O)=O,-1,162707,-20.27225901,linear,-7.591916938,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.397940009,50,-36,branched,-4.872981847,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.301029996,50,-31,branched,-4.470348068,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.255272505,50,-30,branched,-4.55151118,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.146128036,50,-24,branched,-5.082716375,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.903089987,50,-5,branched,-6.028903531,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.602059991,10,-61.5,branched,-4.971466005,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.301029996,10,-61,branched,-4.885211587,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2,10,-63,branched,-4.513827281,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.698970004,10,-61,branched,-4.378016645,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,10,-52,branched,-4.3904622,60
+poly(ethylenimine),CN(C)C,CN(C)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1,10,-45,branched,-5.060487918,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.838849091,9.6,156,linear,-5.430717876,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.491361694,9.6,167,linear,-5.455759599,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.255272505,9.6,171,linear,-4.838063439,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.079181246,9.6,193,linear,-2.475792988,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.838849091,2.1,150,linear,-7.033898305,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.491361694,2.1,155,linear,-5.55932,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.255272505,2.1,207,linear,-4.9661,60
+"poly(1,4-bis(bromomethyl)-2,3,5,6-teramethylbenzene-co-benzyl bis(hydroxymethyl)phosphine sulfide)",*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,*Cc2c(C)c(C)c(COCP(=S)(CO*)Cc1ccccc1)c(C)c2C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.079181246,2.1,210,linear,-4.20339,60
+"poly[2,6-dimethoxy-N-(4-vinylphenyl)benzamide]",C(C1=CC=C(NC(=O)CC2=C(OC)C=CC=C2(OC))C=C1)C,C(C1=CC=C(NC(=O)CC2=C(OC)C=CC=C2(OC))C=C1)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.176091259,390,164,branched,-4.26760624,60
+poly(ethylene oxide-co-allyl glycidyl ether amide imidazole,C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,CCO,17,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.029449934,41204.28,-32,branched,-5.15563935,60
+poly(ethylene oxide-co-allyl glycidyl ether amide imidazole,C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,CCO,17,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.249558022,41204.28,-33,branched,-5.206566454,60
+poly(allyl glycidyl ether amide imidazole),C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.124938737,25610.25,-11,branched,-5.900290018,60
+poly(allyl glycidyl ether amide imidazole),C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.698970004,25610.25,-4,branched,-6.033489785,60
+poly(allyl glycidyl ether amide imidazole),C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,C(COCCCSCCCC(=O)NCCN1C=NC=C1)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.522878745,25610.25,-1,branched,-6.091671913,60
+poly(butadiene amide imidazole),CC(CCSCCCC(=O)NCCN1C=NC=C1),CC(CCSCCCC(=O)NCCN1C=NC=C1),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.823908741,56286,11,branched,-7.385200563,60
+poly(butadiene amide imidazole),CC(CCSCCCC(=O)NCCN1C=NC=C1),CC(CCSCCCC(=O)NCCN1C=NC=C1),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,56286,24,branched,-7.763101501,60
+poly(butadiene amide imidazole),CC(CCSCCCC(=O)NCCN1C=NC=C1),CC(CCSCCCC(=O)NCCN1C=NC=C1),100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.22184875,56286,39,branched,-9.001342017,60
+poly(vinyl methyl siloxane amide imidazole),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.823908741,110943.6,-6,branched,-6.446174023,60
+poly(vinyl methyl siloxane amide imidazole),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,110943.6,-3,branched,-6.35849502,60
+poly(vinyl methyl siloxane amide imidazole),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.22184875,110943.6,0,branched,-6.332222661,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,105215.04,-7,branched,-6.18219514,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),71,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.151810883,89174.4,-4,branched,-6.076827721,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),71,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,89174.4,-11,branched,-6.018583549,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),49,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.991399828,76944,-11,branched,-5.780312544,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),49,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,76944,-19,branched,-5.748539723,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),33,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.819587367,67872,-19,branched,-5.802771871,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),33,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,67872,-28,branched,-5.683259062,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),29,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.763210901,65856,-20,branched,-5.860155071,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),20,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.602059991,60816,-31,branched,-5.8161068,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),7,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,53625.6,-80,branched,-6.153247929,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),7,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.447331784,53625.6,-81,branched,-6.369167275,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane ethane),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,O[Si](C)(CCSCC),7,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.145997767,53625.6,-65,branched,-6.272678861,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane phenyl),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,[Si](C)(CCSCCCCCCCC1=CC=CC=C1)O,72,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.158015195,67760,-13,branched,-5.971409957,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane phenyl),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,[Si](C)(CCSCCCCCCCC1=CC=CC=C1)O,40,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,66440,-36,branched,-6.094302457,60
+poly(vinyl methyl siloxane amide imidazole -co- vinyl methyl siloxane phenyl),[Si](C)(CCSCCCC(=O)NCCN1C=NC=C1)O,[Si](C)(CCSCCCCCCCC1=CC=CC=C1)O,14,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.447331784,65340,-62,branched,-6.697991434,60
+poly(vinyl methyl siloxane imidazole),[Si](C)(CCSCCCCCCCN1C=NC=C1)O,[Si](C)(CCSCCCCCCCN1C=NC=C1)O,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.522878745,65340,-22,branched,-5.185554223,60
+poly(vinyl methyl siloxane imidazole),[Si](C)(CCSCCCCCCCN1C=NC=C1)O,[Si](C)(CCSCCCCCCCN1C=NC=C1)O,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.522878745,65340,7,branched,-5.791297391,60
+PEO,CCO,CCO,100,PF6,F[P-](F)(F)(F)(F)F,-2,4000,-54,linear,-6.4715,60
+PEO,CCO,CCO,100,PF6,F[P-](F)(F)(F)(F)F,-1.698970004,4000,-50,linear,-6.4976,60
+PEO,CCO,CCO,100,PF6,F[P-](F)(F)(F)(F)F,-1.602059991,4000,-51,linear,-6.5604,60
+PEO,CCO,CCO,100,PF6,F[P-](F)(F)(F)(F)F,-1.48148606,4000,-49,linear,-4.2961,60
+PEO,CCO,CCO,100,PF6,F[P-](F)(F)(F)(F)F,-1.301029996,4000,-45,linear,-6.1124,60
+PEO,CCO,CCO,100,PF6,F[P-](F)(F)(F)(F)F,-1.204119983,4000,-44,linear,-6.6565,60
+PEO,CCO,CCO,100,PF6,F[P-](F)(F)(F)(F)F,-1.080921908,4000,-43,linear,-6.3816,60
+PEO,CCO,CCO,100,FSI,[N-](S(=O)(=O)F)S(=O)(=O)F,-1.301029996,500,-45,linear,-3.97027712,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,500,-36,linear,-3.558843312,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.698970004,4,-66,linear,-4.49757288,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.283301229,4,-65,linear,-3.935542011,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-2.10720997,4,-64,linear,-3.772113295,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.982271233,4,-63.5,linear,-3.694648631,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.806179974,4,-62,linear,-3.552841969,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.681241237,4,-61,linear,-3.403402904,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.505149978,4,-58,linear,-3.26760624,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.380211242,4,-56,linear,-3.229147988,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,4,-50,linear,-3.214670165,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.041392685,4,-43,linear,-3.283996656,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,4,-36,linear,-3.386158178,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.77815125,4,-29,linear,-3.48945499,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.698970004,4,-25,linear,-4.036212173,60
+PEO,CCO,CCO,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.602059991,4,-19,linear,-4.283996656,60
+PEO,CCO,CCO,100,MPSA,COCCC[N-]S(=O)(=O)C(F)(F)F,-1.806179974,4,-62,linear,-4.510041521,60
+PEO,CCO,CCO,100,MPSA,COCCC[N-]S(=O)(=O)C(F)(F)F,-1.477121255,4,-60,linear,-4.214670165,60
+PEO,CCO,CCO,100,MPSA,COCCC[N-]S(=O)(=O)C(F)(F)F,-1.322219295,4,-58,linear,-4.124938737,60
+PEO,CCO,CCO,100,MPSA,COCCC[N-]S(=O)(=O)C(F)(F)F,-1.204119983,4,-56.5,linear,-4.065501549,60
+PEO,CCO,CCO,100,MPSA,COCCC[N-]S(=O)(=O)C(F)(F)F,-1.079181246,4,-53.5,linear,-4.102372909,60
+PEO,CCO,CCO,100,MPSA,COCCC[N-]S(=O)(=O)C(F)(F)F,-1,4,-53,linear,-4.167491087,60
+PEO,CCO,CCO,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.079181246,13.20754717,-42,linear,-4.3947,60
+PEO,CCO,CCO,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.903089987,13.20754717,-42,linear,-4.4551,60
+PEO,CCO,CCO,100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.079181246,20.95238095,-49,linear,-4.3444,60
+poly(ethylene oxide),CCO,CCO,100,ClO4,[O-]Cl(=O)(=O)=O,-0.958607315,22,-24,linear,-4.768784859,60
+poly(ethyleneoxide-co-propyleneoxide),CCO,C(C)OC,76.5,ClO4,[O-]Cl(=O)(=O)=O,-0.958607315,10,-23,linear,-5.13199965,60
+poly(ethyleneoxide-co-propyleneoxide),CCO,C(C)OC,47,ClO4,[O-]Cl(=O)(=O)=O,-0.958607315,5,-7,linear,-5.721042882,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,95,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.698970004,4000,-51.85,branched,-4.017859268,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,95,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,4000,-47.15,branched,-3.835551263,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,95,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.22184875,4000,-44.15,branched,-3.611496413,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,95,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.096910013,4000,-43.15,branched,-3.617969947,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.698970004,277.7777778,-55.45,branched,-3.460792874,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.397940009,277.7777778,-52.75,branched,-3.408930907,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.22184875,277.7777778,-45.65,branched,-3.27768157,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.096910013,277.7777778,-39.65,branched,-3.21161654,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,ClO4,[O-]Cl(=O)(=O)=O,-1.698970004,277.7777778,-51.45,branched,-3.610818838,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,ClO4,[O-]Cl(=O)(=O)=O,-1.397940009,277.7777778,-46.15,branched,-3.346435504,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,ClO4,[O-]Cl(=O)(=O)=O,-1.22184875,277.7777778,-37.85,branched,-3.498306692,60
+poly[ethylene oxide-co-2-(2-methoxyethoxy)ethyl glycidyl ether],CCO,C(COCCOCCOC)OC,91,ClO4,[O-]Cl(=O)(=O)=O,-1.096910013,277.7777778,-23.55,branched,-3.821350999,60
+poly (allyl glycidyl ether),C(COCC=C)OC,C(COCC=C)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.951169913,12.17391304,-75.8,linear,-4.849959018,60
+poly (allyl glycidyl ether),C(COCC=C)OC,C(COCC=C)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.713992878,12.17391304,-73.99,linear,-4.455315869,60
+poly (allyl glycidyl ether),C(COCC=C)OC,C(COCC=C)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.507239611,12.17391304,-72,linear,-4.197144058,60
+poly (allyl glycidyl ether),C(COCC=C)OC,C(COCC=C)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.417028071,12.17391304,-67.5,linear,-3.899042599,60
+poly (allyl glycidyl ether),C(COCC=C)OC,C(COCC=C)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.19893947,12.17391304,-58.4,linear,-3.718439756,60
+poly (allyl glycidyl ether),C(COCC=C)OC,C(COCC=C)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.000521466,12.17391304,-49.3,linear,-3.714276869,60
+poly (allyl glycidyl ether),C(COCC=C)OC,C(COCC=C)OC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.295986875,12.17391304,-78,linear,-3.91699886,60
+poly (ethylene glycol co allyl glycidyl ether),CCO,C(COCC=C)OC,89.7,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.423263358,29.5,-69,linear,-3.471924785,60
+poly (ethylene glycol co allyl glycidyl ether),CCO,C(COCC=C)OC,80.2,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.425242597,15.8,-71,linear,-3.609537571,60
+poly (ethylene glycol co allyl glycidyl ether),CCO,C(COCC=C)OC,76.7,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.423173341,7.9,-69,linear,-3.652058988,60
+poly (ethylene glycol co allyl glycidyl ether),CCO,C(COCC=C)OC,54.9,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.395003756,17.3,-73,linear,-3.803559545,60
+锘縫oly(methoxy polyethylene glycol monomethacrylate),CC(C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC)(C),CC(C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC)(C),100,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-0.698970004,300,-25,branched,-4.890328737,60
+oxymethylene-linked poly(ethylene oxide),COCCOCCOCCOCCOCCOCCOCCOCCOCOC,COCCOCCOCCOCCOCCOCCOCCOCCOCOC,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,50,-50.69,linear,-3.681736599,60
+poly 锘縉-(2-methoxylethyl)glycine,C(=O)N(CCOC)C,C(=O)N(CCOC)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.070581074,2.3625,52.2,branched,-6.574593418,60
+poly 锘縉-(2-(2-methoxyethoxy)ethyl)glycine,C(=O)N(CCOCCOC)C,C(=O)N(CCOCCOC)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.070581074,3.2428,9.9,branched,-4.822384778,60
+锘縫oly N-(2-(2-(2-methoxyethoxy)ethoxy)ethyl)glycine,C(=O)N(CCOCCOCCOC)C,C(=O)N(CCOCCOCCOC)C,100,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.070581074,4.1277,-2.4,branched,-4.53153355,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,37,40.8,branched,-6.93162364,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,37,34.1,branched,-6.424478697,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,37,31.7,branched,-7.084322107,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,37,29.4,branched,-6.655352166,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,19,21.5,branched,-6.010850752,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,19,8.72,branched,-5.756176322,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,19,8.06,branched,-6.279968984,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,19,0.543,branched,-6.111465606,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,18,-17.8,branched,-4.901888108,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,18,-20.8,branched,-5.029106919,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,18,-22.8,branched,-5.029119303,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,18,-25.6,branched,-4.966118865,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,7.9,-26.6,branched,-4.428192809,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,7.9,-27.8,branched,-4.477191173,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,7.9,-31.8,branched,-4.304358931,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,7.9,-37.2,branched,-4.375192379,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,8.1,-18.9,branched,-4.195436525,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,8.1,-31.1,branched,-3.772680721,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,8.1,-35.6,branched,-3.629527631,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,8.1,-39.8,branched,-3.807212738,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,7.8,-29.1,branched,-3.969291168,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,7.8,-36.9,branched,-3.732945182,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,7.8,-43.5,branched,-3.695438776,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,7.8,-47.5,branched,-3.66205309,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-0.903089987,7.4,-27.3,branched,-3.710677434,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.079181246,7.4,-40.8,branched,-3.49429521,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.204119983,7.4,-44.5,branched,-3.131450171,60
+poly (锘縨ethoxy oligo(ethyleneoxy)ethyl-alt-vinylene carbonate),CC(OCCOCCOC),C1OC(=O)OC1,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,7.4,-48.3,branched,-3.301688787,60
+poly (tert-butyl glycidyl ether-alt-carbon dioxide),C(COC(C)(C)C)OC,C(=O)O,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,44,18,branched,-7.51533429,60
+poly (n-butyl glycidyl ether-alt-carbon dioxide),C(COCCCC)OC,C(=O)O,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.301029996,190,-20,branched,-5.836820328,60
+poly (methoxy ethyl glycidyl ether-alt-carbon dioxide),C(COCCOC)OC,C(=O)O,50,TFSI,C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,-1.477121255,17,-55,branched,-4.528742245,60
+poly (ethylene oxide-co-methyl glycidyl ether),CCO,C(COC)OC,78.3,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.204119983,1000,-68.6,branched,-4.771455143,60
+poly (ethylene oxide-co-ethoxyethyl glycidyl ether),CCO,C(COCCOCC)OC,82.94,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.204119983,1000,-53,branched,-4.613009445,60
+poly (ethylene oxide-co-digol methyl glycidyl ether),CCO,C(COCCOCCOC)OC,71.15,CF3SO3,C(F)(F)(F)S(=O)(=O)[O-],-1.204119983,1000,-77,branched,-4.013896227,60
