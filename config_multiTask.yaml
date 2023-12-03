@@ -1,0 +1,28 @@
+CV_flag: True      
+aug_flag: True                                                                                          
+model_indicator: 'pretrain'                        # whether to use pretrained model
+aug_indicator: 2                                    # number of augmentation per SMILES. If no limitation, assign the indicator with None (leave it blank).                                                                
+           
+vocab_sup_file: 'data/vocab/vocab_sup_PE_II.csv'
+train_file: 'data/multiTask.csv'                   # train file path
+test_file: 'data/multiTask.csv'                     # test file path if cross-validation is not used
+model_path: 'ckpt/pretrain.pt'                      # pretrain model path
+save_model: 'ckpt/occupy/first/multiTask_train.pt'                     # checkpoint path
+best_model_path: 'ckpt/occupy/first/multiTask_best_model.pt'         
+fold_seed: 42
+
+k: 5                                                
+blocksize: 411                                      
+batch_size: 32                                       
+num_epochs: 80                                      
+warmup_ratio: 0.1                                  
+drop_rate: 0.1                                      
+lr_rate: 0.00005                                    
+lr_rate_reg: 0.00005                                 
+weight_decay: 0.01
+hidden_dropout_prob: 0.1                                          
+attention_probs_dropout_prob: 0.1                  
+tolerance: 20                                        
+num_workers: 8                                      
+
+

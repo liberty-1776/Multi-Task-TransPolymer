@@ -1,0 +1,7 @@
+ckpt/
+runs/
+__pycache__/
+.ipynb_checkpoints/
+models/
+data/
+wrong_approach/multiTask_w.csv

@@ -1,0 +1,24 @@
+CV_flag: True                                                                                                
+                                                                       
+vocab_sup_file: 'data/vocab/vocab_sup_PE_I.csv'           
+train_file: 'data/multiTask_w.csv'                  
+test_file: 'data/multiTask_w.csv'                                        
+
+save_model: 'ckpt/multi-task/multi_task.pt'                
+best_model_path: 'ckpt/multi-task/best_multi_task.pt'          
+
+k: 5                                                
+blocksize: 411                                      
+batch_size: 32                                       
+num_epochs: 20                                      
+warmup_ratio: 0.1                                  
+drop_rate: 0.1                                      
+lr_rate: 0.00005                                    
+lr_rate_reg: 0.0001                                 
+weight_decay: 0.01
+hidden_dropout_prob: 0.1                            
+attention_probs_dropout_prob: 0.1                  
+tolerance: 5                                        
+num_workers: 8                                      
+
+
